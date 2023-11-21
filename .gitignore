@@ -1,0 +1,4 @@
+#gitignore for the node modules and environment variables
+
+node_modules
+.env
